@@ -22,4 +22,3 @@ spring:
           uri: lb://hello-producer          
           predicates:
             - Path=/hellop/**
-
